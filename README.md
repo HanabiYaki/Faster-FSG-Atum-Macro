@@ -3,4 +3,4 @@
 This is just the atum macro from @PodX12 but modified to immediately reset on title screen.
 Change directory and hotkey (Defaul PgDn) if needed
 
-### Requires atum and latest fastreset
+### Requires Atum, SpeedrunIGT and latest FastReset
